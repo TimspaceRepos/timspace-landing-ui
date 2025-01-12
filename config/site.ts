@@ -8,6 +8,5 @@ export const siteConfig = {
       href: "/",
     },
   ],
-  links: {
-  },
+  links: {},
 }
